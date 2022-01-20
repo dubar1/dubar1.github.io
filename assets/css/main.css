@@ -2429,6 +2429,7 @@ input, select, textarea {
 					height: inherit;
 					line-height: inherit;
 					border-radius: 0;
+					font-size: 0.9em;
 				}
 
 					#nav a:hover {
@@ -2453,6 +2454,10 @@ input, select, textarea {
 
 			#contact footer {
 				margin: 0;
+			}
+		
+			#cennik iframe {
+				width: 25em;
 			}
 
 		/* Copyright */
